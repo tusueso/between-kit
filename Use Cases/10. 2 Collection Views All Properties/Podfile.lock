@@ -1,5 +1,5 @@
 PODS:
-  - BetweenKit (2.0.0)
+  - BetweenKit (2.0.1)
 
 DEPENDENCIES:
   - BetweenKit (from `../../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../../
 
 SPEC CHECKSUMS:
-  BetweenKit: ac21cbb247927c7b2b00615c6bb28a9d8d5b36d2
+  BetweenKit: 89edc0c6dd96eb33ea02c097bb99a9b1c14880f0
 
-COCOAPODS: 0.35.0
+COCOAPODS: 0.36.3

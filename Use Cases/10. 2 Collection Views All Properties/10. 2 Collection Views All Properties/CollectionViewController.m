@@ -109,7 +109,6 @@
 -(BOOL) canItemBeDraggedAt:(NSIndexPath *)at inCollection:(UIView<I3Collection> *)collection{
     
     I3SimpleData *fromDatum = [[self dataForCollection:collection] objectAtIndex:at.item];
-    
     return fromDatum.canMove;
 }
 
